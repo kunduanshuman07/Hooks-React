@@ -15,7 +15,7 @@ function App() {
       {/* <EffectHookCounter/> */}
       {/* <EffectHookMouse /> */}
       {/* <EffectHookCleanup /> */}
-      <EffectHookDatafetch/>
+      {/* <EffectHookDatafetch/> */}
     </div>
   );
 }
