@@ -5,8 +5,8 @@ import UseReducerDataFetch from "./components/UseReducerDataFetch";
 const App = () => {
   return (
     <div>
-      <UseStateDataFetch />
-      <UseReducerDataFetch/>
+      {/* <UseStateDataFetch />
+      <UseReducerDataFetch/> */}
     </div>
   );
 };
